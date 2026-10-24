@@ -122,7 +122,7 @@ function RootShell({ children }: { children: ReactNode }) {
           dangerouslySetInnerHTML={{
             __html: `
               var _smartsupp = _smartsupp || {};
-              _smartsupp.key = '8640798599b253193913386107149e87c884877d';
+              _smartsupp.key = 'd96a03383f3f8896c2bd3c2535f6d44aa850569b';
               window.smartsupp || (function(d) {
                 var s, c, o = smartsupp = function() { o._.push(arguments); }; o._ = [];
                 s = d.getElementsByTagName('script')[0];
